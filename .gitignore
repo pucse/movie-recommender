@@ -1,6 +1,3 @@
-data/input/*
-data/ratings/*
-data/users/*
-data/movies/*
+data/*
 model/*
 *.log
